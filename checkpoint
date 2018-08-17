@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zt/Documents/TensorF/TensorFlow/2_Image_classifier/Image-classifier.tfl"
+all_model_checkpoint_paths: "/home/zt/Documents/TensorF/TensorFlow/2_Image_classifier/Image-classifier.tfl"
